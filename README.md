@@ -6,14 +6,20 @@ This repository contains a personal derivatives valuation project focused on mat
 
 At this stage, the project includes:
 
+- Foundations and mathematical notation
+- Basic derivatives instruments payoffs ->
+   - Forwards, European Call, European Put
+
 ## Repository Structure
+
     portfolio-management-lab/
     ├── notebooks/
-    │   └── 00_foundations_and_conventions.ipynb
+    │   ├── 00_foundations_and_concepts.ipynb
+    │   └── 01_instruments_and_payoffs.ipynb
     ├── src/
     │   └── dv/
-    │       ├── payoffs.py
-    │       └── instruments.py
+    │       ├── discounting.py
+    │       └── payoffs.py
     ├── pyproject.toml
     ├── setup.cfg
     └── README.md
