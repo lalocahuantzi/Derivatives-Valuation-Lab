@@ -21,7 +21,6 @@ At this stage, the project includes:
     │       ├── discounting.py
     │       └── payoffs.py
     ├── pyproject.toml
-    ├── setup.cfg
     └── README.md
 
 ## Usage
