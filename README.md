@@ -31,7 +31,7 @@ At this stage, the project includes:
 
 2. Open and run the notebook:
 
-   notebooks/00_foundations_and_concetps.ipynb
+   notebooks/00_foundations_and_concepts.ipynb
 
 The notebook is intended to be run sequentially from top to bottom.
 
